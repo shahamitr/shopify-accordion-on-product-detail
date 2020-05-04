@@ -1,0 +1,32 @@
+<button class="accordion">Description</button>
+<div class="panel">
+	<p>Rise and be REBORN</p>
+	<ul>
+		<li><span>Fitted design</span></li>
+		<li><span> Eyelet and rib patterns</span></li>
+		<li><span>Cropped</span></li>
+		<li><span>Ventilation detailing</span></li>
+		<li><span>Thumbholes</span></li>
+		<li>95% Nylon, 5% Elastane</li>
+		<li>Model is 5'4' and wears a size S. </li>
+	</ul>
+	<p>
+		<br><span>A long sleeve top with a stylish design to help kick-start your motivation to get active. The shape-enhancing contours and supportive fabric are sure to get you through the toughest of workouts.</span>
+		<br>
+	</p>
+</div>
+
+<button class="accordion">Delivery &amp; Returns</button>
+<div class="panel">
+	<ul>
+		<li>Good News! We are still dispatching orders.</li>
+		<li>Free Standard Delivery (Estimated 4-7 Working Days) from $75</li>
+		<li>Free Express Delivery (Estimated 1-3 Working Days) from $150</li>
+		<li>Free Returns on all orders</li>
+	</ul>
+</div>
+
+<button class="accordion">Review</button>
+<div class="panel">
+	<p>Reviews will go here</p>
+</div>
